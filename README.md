@@ -1,5 +1,5 @@
 # Airline_Analysis
-Airline_Analysis using Power BI
+
 
 Power BI is a powerful business intelligence tool that allows you to visualize and analyze data from various sources, including airline data. With Power BI, you can create interactive reports and dashboards to gain insights.
 Here's a step-by-step guide on how you can analyze airline data using Power BI:
