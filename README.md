@@ -7,8 +7,8 @@ Here's a step-by-step guide on how you can analyze airline data using Power BI:
 
 2. Data Modeling: Once the data is imported, you may need to perform some data modeling tasks to create relationships between different tables and ensure data consistency. This step is crucial for creating meaningful visualizations. You can use the Power Query Editor within Power BI to transform and shape your data if needed.
 
-3. Visualization Creation: After the data modeling is done, you can start creating visualizations. Power BI offers a wide range of visualization options, including charts, tables, maps, and custom visuals. Identify the key metrics and dimensions you want to analyze and choose appropriate visualizations to represent the data effectively. For example, you can create charts to show flight bookings by destination, customer segments, or time periods.
-
+3. Visualization Creation: After the data modeling is done, you can start creating visualizations. Power BI offers a wide range of visualization options, including charts, tables, maps, and custom visuals. Identify the key metrics and dimensions you want to analyze and choose appropriate visualizations to represent the data effectively. Here,this visualisation shows: Monthly wise, Airline name and Origin Airport(Selection of Data)., Max flights cancelled day wise., Number of Flights at the Departure Hour., Average delay of the flights in a year.
+  
 4. Dashboard Design: Combine your visualizations into a cohesive dashboard. Dashboards provide a consolidated view of multiple reports and allow users to interact with the data. Arrange the visualizations on the dashboard canvas, apply formatting and styling, and consider using filters or slicers to enable interactivity.
 
 5. Analysis and Exploration: Once your dashboard is ready, you can explore and analyze the data. Power BI provides interactive features such as filtering, highlighting, and drill-through capabilities. Use these features to dig deeper into your airline data, identify patterns, and gain insights into your operations.
